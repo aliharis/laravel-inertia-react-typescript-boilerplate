@@ -19,7 +19,7 @@ Welcome to this Laravel application, which serves as a boilerplate project and i
 To get started, clone the repository
 
 ```
-git clonen git@github.com:aliharis/laravel-inertia-react-typescript-boilerplate.git
+git clone git@github.com:aliharis/laravel-inertia-react-typescript-boilerplate.git
 ```
 
 In the project diectory, install the dependencies
