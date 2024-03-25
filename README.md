@@ -1,12 +1,12 @@
 ## Introduction
 
-Welcome to this Laravel application, which serves as a boilerplate project and is built with React, TypeScript, and TailwindCSS.
+This application is a Laravel starter-kit that provides a quick boilerplate to use React (+SSR), TypeScript, and TailwindCSS on Laravel.
 
 ### Stack
 
-- Laravel v10
+- Laravel v11
 - React v18
-- Inertia.js v0.11
+- Inertia.js v1.0 (for React SSR)
 - TypeScript v5
 - Vite v4
 - TailwindCSS v3
@@ -19,7 +19,7 @@ Welcome to this Laravel application, which serves as a boilerplate project and i
 To get started, clone the repository
 
 ```
-git clone git@github.com:aliharis/laravel-inertia-react-typescript-boilerplate.git
+git clone git@github.com:aliharis/laravel-starter-kit.git
 ```
 
 In the project diectory, install the dependencies
@@ -33,5 +33,5 @@ Run the project
 
 ```
 php artisan serve
-vite dev
+yarn dev
 ```
